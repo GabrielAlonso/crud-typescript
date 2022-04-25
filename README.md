@@ -4,11 +4,11 @@ Project about inventory control and employees.
 crud-typescript/
 <br />│─⠀index.html
 <br />│─⠀css/
-<br />│⠀⠀│─⠀style.css
+<br />│⠀⠀└─⠀style.css
 <br />│─⠀js/
-<br />│⠀⠀│─⠀index.ts
+<br />│⠀⠀└─⠀index.ts
 <br />│─⠀img/
-<br />│⠀⠀│─⠀logo.png
+<br />│⠀⠀└─⠀logo.png
 <br />│─⠀package.json
-<br />│─⠀README.md
+<br />└─⠀README.md
 
