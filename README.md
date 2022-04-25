@@ -1,7 +1,7 @@
 # Crud Typescript
 Project about inventory control and employees.
 # Link
-[go](https://typescript-yk22gs.stackblitz.io){:target="_blank"}
+[go](https://typescript-yk22gs.stackblitz.io){:target="_blank" rel="noopener"}
 # Struct
 crud-typescript/
 <br />│─⠀index.html
