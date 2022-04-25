@@ -6,7 +6,7 @@ crud-typescript/
 <br />│─⠀css/
 <br />│⠀⠀│─⠀style.css
 <br />│─⠀js/
-<br />│⠀⠀│─⠀index.js
+<br />│⠀⠀│─⠀index.ts
 <br />│─⠀package.json
 <br />│─⠀README.md
 
