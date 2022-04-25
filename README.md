@@ -8,7 +8,7 @@ crud-typescript/
 <br />│─⠀js/
 <br />│⠀⠀│─⠀index.ts
 <br />│─⠀img/
-<br />│⠀⠀│─⠀index.ts
+<br />│⠀⠀│─⠀logo.png
 <br />│─⠀package.json
 <br />│─⠀README.md
 
